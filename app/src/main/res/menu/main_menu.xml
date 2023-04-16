@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/ic_baseline_about_24" />
+
+        <item
+            android:id="@+id/nav_objectives"
+            android:title="Objectives"
+            android:icon="@drawable/ic_baseline_objectives_24" />
+
+        <item
+            android:id="@+id/nav_the_pilot_study_and_outcome"
+            android:title="The Pilot Study and Outcome"
+            android:icon="@drawable/ic_baseline_the_pilot_study_and_outcome_24" />
+
+        <item
+            android:id="@+id/nav_interactive_outputs"
+            android:title="Interactive Outputs"
+            android:icon="@drawable/ic_baseline_interactive_outputs_24" />
+
+        <item
+            android:id="@+id/nav_services_offered"
+            android:title="Services Offered"
+            android:icon="@drawable/ic_baseline_services_offered_24" />
+
+        <item
+            android:id="@+id/nav_seek_consultancy"
+            android:title="Seek Consultancy"
+            android:icon="@drawable/ic_baseline_seek_consultancy_24" />
+
+        <item
+            android:id="@+id/nav_project_team"
+            android:title="Project Team"
+            android:icon="@drawable/ic_baseline_project_team_24" />
+
+    </group>
+
+</menu>
